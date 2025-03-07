@@ -127,15 +127,17 @@ ol {
 @keyframes loader {
 	0% {
 		-webkit-transform: rotate(0deg);
-		        transform: rotate(0deg);
+		transform: rotate(0deg);
 	}
+
 	50% {
 		-webkit-transform: rotate(180deg);
-		        transform: rotate(180deg);
+		transform: rotate(180deg);
 	}
+
 	100% {
 		-webkit-transform: rotate(360deg);
-		        transform: rotate(360deg);
+		transform: rotate(360deg);
 	}
 }
 
@@ -143,9 +145,11 @@ ol {
 	0% {
 		-webkit-transform: rotate(0deg);
 	}
+
 	50% {
 		-webkit-transform: rotate(180deg);
 	}
+
 	100% {
 		-webkit-transform: rotate(360deg);
 	}
@@ -483,6 +487,9 @@ ol {
 	background: #cbcbcb;
 }
 
+
+  
+
 /*---------------------
 	Resume section
 ----------------------*/
@@ -758,7 +765,7 @@ ol {
 
 .home-two-style .hero-image img {
 	-webkit-box-shadow: 6px 20px 50px rgba(0, 0, 0, 0.5294117647);
-	        box-shadow: 6px 20px 50px rgba(0, 0, 0, 0.5294117647);
+	box-shadow: 6px 20px 50px rgba(0, 0, 0, 0.5294117647);
 }
 
 .home-two-style .resume-list li:after {
@@ -931,7 +938,7 @@ ol {
 	background: -o-linear-gradient(top, #481340 0%, #ff0f3c 100%, #ff0f3c 100%);
 	background: linear-gradient(to bottom, #481340 0%, #ff0f3c 100%, #ff0f3c 100%);
 	/* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#481340', endColorstr='#ff0f3c', GradientType=0);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#481340', endColorstr='#ff0f3c', GradientType=0);
 	/* IE6-9 */
 }
 
@@ -1221,6 +1228,7 @@ ol {
 		position: relative;
 		background: #f2f7f8;
 	}
+
 	.home-six-style .header-section {
 		position: relative;
 		background: #009fff;
@@ -1232,23 +1240,29 @@ ol {
 		position: relative;
 		background: #f2f7f8;
 	}
+
 	.container-warp {
 		min-width: 80%;
 		margin-left: 10%;
 	}
+
 	.hero-info ul li span {
 		min-width: 180px;
 	}
+
 	.portfolio-item .port-pic {
 		height: 310px;
 	}
+
 	.home-three-style .header-section {
 		padding: 50px 30px;
 	}
+
 	.home-three-style .main-left-area {
 		padding-right: 30px;
 		padding-left: 30px;
 	}
+
 	.home-three-style .main-right-area {
 		padding-left: 100px;
 	}
@@ -1259,22 +1273,28 @@ ol {
 	.portfolio-warp {
 		padding: 0;
 	}
+
 	.home-three-style .header-section {
 		padding: 50px 15px;
 	}
+
 	.home-three-style .main-left-area {
 		padding-right: 15px;
 		padding-left: 15px;
 	}
+
 	.home-three-style .main-right-area {
 		padding-left: 50px;
 	}
+
 	.home-three-style .main-right-area {
 		padding-left: 100px;
 	}
+
 	.portfolio-item .port-pic {
 		height: 310px;
 	}
+
 	.portfolio-item {
 		margin-bottom: 30px;
 	}
@@ -1285,29 +1305,37 @@ ol {
 	.portfolio-warp {
 		padding: 0;
 	}
+
 	.hidden-md {
 		display: none !important;
 	}
+
 	.icon-box {
 		margin-right: 30px;
 	}
+
 	.social-section .social-links {
 		display: block;
 		text-align: center;
 	}
+
 	.social-link-warp:after {
 		display: none;
 	}
+
 	.portfolio-item {
 		margin-bottom: 30px;
 	}
+
 	.home-three-style .header-section {
 		position: relative;
 		background: #f2f7f8;
 	}
+
 	.home-three-style .main-left-area {
 		padding-top: 0;
 	}
+
 	.home-three-style .main-left-area,
 	.home-three-style .header-section,
 	.home-three-style .main-right-area,
@@ -1317,16 +1345,20 @@ ol {
 		padding-right: 30px;
 		padding-left: 30px;
 	}
+
 	.home-five-style .header-section,
 	.home-six-style .header-section {
 		padding: 50px 0;
 	}
+
 	.info-section .hero-info ul li span {
 		color: #9c9b9b;
 	}
+
 	.hero-info ul li {
 		margin-bottom: 30px;
 	}
+
 	.hero-info ul li span {
 		display: block;
 	}
@@ -1338,52 +1370,66 @@ ol {
 		margin-right: 30px;
 		text-align: left;
 	}
+
 	.hero-text h2 {
 		font-size: 80px;
 	}
+
 	.portfolio-warp {
 		padding: 0;
 	}
+
 	.hidden-md {
 		display: none !important;
 	}
+
 	.resume-list {
 		margin-left: 0;
 		padding-left: 0;
 		border-left: none;
 	}
+
 	.review-slider {
 		padding-left: 0;
 	}
+
 	.review-slider .owl-dots {
 		position: relative;
 		left: 0;
 		top: 70px;
 	}
+
 	.review-slider .owl-dots .owl-dot {
 		display: inline-block;
 		margin-right: 15px;
 	}
+
 	.portfolio-item {
 		margin-bottom: 30px;
 	}
+
 	.fact-box {
 		margin-bottom: 30px;
 	}
+
 	.header-section {
 		padding: 50px 0;
 	}
+
 	.social-section .social-links {
 		display: block;
 		text-align: center;
 	}
+
 	.home-three-style .header-section {
 		position: relative;
 		background: #f2f7f8;
 	}
+
 	.home-three-style .main-left-area {
 		padding-top: 0;
 	}
+
 	.home-three-style .main-left-area,
 	.home-three-style .header-section,
 	.home-three-style .main-right-area,
@@ -1393,10 +1439,12 @@ ol {
 		padding-right: 30px;
 		padding-left: 30px;
 	}
+
 	.home-five-style .header-section,
 	.home-six-style .header-section {
 		padding: 50px 0;
 	}
+
 	.info-section .hero-info ul li span {
 		color: #9c9b9b;
 	}
@@ -1407,21 +1455,27 @@ ol {
 	.hero-text h2 {
 		font-size: 50px;
 	}
+
 	.hero-info ul li {
 		font-size: 18px;
 	}
+
 	.hero-info ul li span {
 		display: block;
 	}
+
 	.social-section .social-links a {
 		margin-right: 30px;
 	}
+
 	.resume-list h2 {
 		font-size: 50px;
 	}
+
 	.portfolio-item {
 		margin-bottom: 30px;
 	}
+
 	.home-three-style .main-left-area,
 	.home-three-style .header-section,
 	.home-three-style .main-right-area,
@@ -1431,6 +1485,7 @@ ol {
 		padding-right: 15px;
 		padding-left: 15px;
 	}
+
 	.home-four-style .main-left-area {
 		padding-top: 250px;
 	}
